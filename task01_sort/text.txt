@@ -1,0 +1,6 @@
+a
+zoo
+cat 
+b
+dog
+mouse
